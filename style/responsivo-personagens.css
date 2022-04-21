@@ -25,6 +25,7 @@
     }
     .cartao .imgBx img{
         max-width: 310px;
+        padding-left: 0px;
     }
     .cartao .detalhes{
         position: relative;
@@ -148,6 +149,7 @@
     }
     .cartao .imgBx img{
         max-width: 335px;
+        padding-left: 0px;
     }
     .cartao .detalhes{
         position: relative;
@@ -272,6 +274,7 @@
     }
     .cartao .imgBx img{
         max-width: 310px;
+        padding-left: 0px;
     }
     .cartao .detalhes{
         position: relative;
@@ -395,6 +398,7 @@
     }
     .cartao .imgBx img{
         max-width: 290px;
+        padding-left: 0px;
     }
     .cartao .detalhes{
         position: relative;
