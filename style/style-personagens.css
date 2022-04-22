@@ -185,7 +185,8 @@ a{
 .comprar{
     padding: 0px 5px;
     margin-top: 30px;
-    background: linear-gradient(90deg, #0576e6, #021B79);
+    background: #25d366;
+    box-shadow: 0 15px 45px 15px rgba(0,0,0,0.4);
     width: 380px;
     height: 80px;
     display: flex;
@@ -201,7 +202,8 @@ a{
 .carro{
     padding: 0px 5px;
     margin-top: 30px;
-    background: linear-gradient(90deg, #0575E6, #021B79);
+    background: #1c92d2;
+    box-shadow: 0 15px 45px 15px rgba(0,0,0,0.4);
     width: 380px;
     height: 80px;
     display: flex;
