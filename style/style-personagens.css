@@ -185,7 +185,7 @@ a{
 .comprar{
     padding: 0px 5px;
     margin-top: 30px;
-    background: #25d366;
+    background: linear-gradient(190deg, #515bd4, #8134af, #dd2a7b, #feda77, #f58529);
     width: 380px;
     height: 80px;
     display: flex;
